@@ -9,7 +9,7 @@
 1. Please select a location with some surplus disk space and run the following command:
 changed from QingdaoU to local repo.
     ```bash
-    git clone -b 2.0 https://github.com/DevCam/OnlineJudgeDeploy && cd OnlineJudgeDeploy
+    git clone https://github.com/DevCam/OnlineJudgeDeploy && cd OnlineJudgeDeploy
     ```
 2. Start service
 
